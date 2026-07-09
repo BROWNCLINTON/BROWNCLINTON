@@ -1,3 +1,3 @@
-| sch1 | sch2 | sch3 |
-|__|___|__|
-| 80 | 90| 40|
+| School 1 | School 2 | School 3 |
+|----------|----------|----------|
+|Clinton|Inima|Meat|
