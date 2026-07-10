@@ -15,8 +15,8 @@
 ## | projects | Description | Repository |
    |----------|-------------|------------|
    | penetration testing | | Coming soon |
-   | 
-   |
+   | Log Analysis | | Coming soon |
+   | Malware Analysis | | Coming oon
    |
    |
    |
@@ -34,3 +34,19 @@
 
 
 ### Networking 
+
+- TCP/IP
+- DNS
+- HTTP
+- FTP
+- SSH
+
+
+### Cybersecurity Tools
+
+- Map
+- Wireshark
+- Burp Suite
+- Splunk
+- Metasploit
+
