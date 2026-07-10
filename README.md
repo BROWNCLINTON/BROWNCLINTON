@@ -18,7 +18,7 @@
    | Log Analysis | | Coming soon |
    | Malware Analysis | | Coming oon
    |
-   |
+   | OSINT | | 
    |
    |
    |
