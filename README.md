@@ -18,7 +18,7 @@
    | Log Analysis | | Coming soon |
    | Malware Analysis | | Coming oon
    |
-   | OSINT | | 
+   | OSINT | | A practical open source intelligence (OSINT) Investigation demonstration information gathering techniques.|
    |
    |
    |
