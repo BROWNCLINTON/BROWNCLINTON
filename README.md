@@ -19,7 +19,7 @@ I am a Cybersecurity student at NIIT Port Harcourt, passionate about offensive a
 | penetration testing | A penetration testing project demonstrating ethical hacking methodology,  security testing and reporting.  | Coming soon |
 | Log Analysis |Analyzed IIS and Windows Event logs to identify attacks |  https://github.com/BROWNCLINTON/Log-Analysis- |
 | Malware Analysis | A practical Malware Analysis project demonstrating static and dynamic analysis techniques | https://github.com/BROWNCLINTON/Malware-Analysis-Project |
-| Digital Forensics | A Digital Forensics project demonstrating evidence acquisition, preservation and analysis. | Coming soon |
+| Digital Forensics | A Digital Forensics project demonstrating evidence acquisition, preservation and analysis. | https://github.com/BROWNCLINTON/Digital-Forensics-Project- |
 | OSINT Investigation | conducted an OSINT investigation on a target Organisation| https://github.com/BROWNCLINTON/osint-project |
 | Threat Hunting | | |
 | Social Engineering | | |
