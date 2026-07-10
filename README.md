@@ -23,7 +23,7 @@ I am a Cybersecurity student at NIIT Port Harcourt, passionate about offensive a
 | OSINT Investigation | conducted an OSINT investigation on a target Organisation| https://github.com/BROWNCLINTON/osint-project |
 | Threat Hunting | | |
 | Social Engineering | | |
-| Vulnerability Assessment | A Vulnerability  Assessment project demonstrating asset discovery,  Vulnerability identification, risk analysis and remediation recommendations | |
+| Vulnerability Assessment | A Vulnerability  Assessment project demonstrating asset discovery,  Vulnerability identification, risk analysis and remediation recommendations | https://github.com/BROWNCLINTON/Vulnerability-Assessment-Project |
 | SOC Analysis | | |
 
 ## Skills
