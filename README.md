@@ -1,3 +1,7 @@
+# Hi, I'm Brown Clinton Wilfred 
+
+# About me
+I am a Cybersecurity student at NIIT Port Harcourt, passionate about offensive and defensive cybersecurity. I enjoy building practical cybersecurity projects that demonstrate real-world skills in:
 - penetration Testing
 - Log Analysis
 - Malware Analysis
@@ -8,23 +12,18 @@
 - Vulnerability Assessment
 - SOC Analysis 
 
-
-
-
 # Projects 
 ## | projects | Description | Repository |
-   |----------|-------------|------------|
+   | -------- | ----------- | ---------- |
    | penetration testing | | Coming soon |
-   | Log Analysis | | Coming soon |
-   | Malware Analysis | | Coming oon
-   |
-   | OSINT | | A practical open source intelligence (OSINT) Investigation demonstration information gathering techniques.|
-   |
-   |
-   |
-   |
-   |
-   |
+   | Log Analysis |Analyzed IIS and Windows Event logs to identify attacks | Coming soon |
+   | Malware Analysis | | Coming soon |
+   | Digital Forensics | | Coming soon |
+   | OSINT Investigation | conducted an OSINT investigation on a target Organisation| https://github.com/BROWNCLINTON/osint-project |
+   | Threat Hunting | | |
+   | Social Engineering | | |
+   | Vulnerability Assessment | | |
+   | SOC Analysis | | |
 
    ## Skills
 
@@ -63,5 +62,5 @@
 ## Contact 
 - Email: clintonbrown194@gmail.com
 - LinkedIn: http://LinkedIn.com/in/Brown Clinton
-- Github: BROWNCLINTON
+- Github: https://github.com/BROWNCLINTON/osint-project
 - Phone no: +2348135067223
