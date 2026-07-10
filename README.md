@@ -12,24 +12,25 @@ I am a Cybersecurity student at NIIT Port Harcourt, passionate about offensive a
 - Vulnerability Assessment
 - SOC Analysis 
 
-# Projects 
-## | projects | Description | Repository |
-   | -------- | ----------- | ---------- |
-   | penetration testing | | Coming soon |
-   | Log Analysis |Analyzed IIS and Windows Event logs to identify attacks | Coming soon | https://github.com/BROWNCLINTON/Log-Analysis- |
-   | Malware Analysis | | Coming soon |
-   | Digital Forensics | | Coming soon |
-   | OSINT Investigation | conducted an OSINT investigation on a target Organisation| https://github.com/BROWNCLINTON/osint-project |
-   | Threat Hunting | | |
-   | Social Engineering | | |
-   | Vulnerability Assessment | | |
-   | SOC Analysis | | |
+## Projects 
 
-   ## Skills
+| projects | Description | Repository |
+| -------- | ----------- | ---------- |
+| penetration testing | | Coming soon |
+| Log Analysis |Analyzed IIS and Windows Event logs to identify attacks | Coming soon | https://github.com/BROWNCLINTON/Log-Analysis- |
+| Malware Analysis | | Coming soon |
+| Digital Forensics | | Coming soon |
+| OSINT Investigation | conducted an OSINT investigation on a target Organisation| https://github.com/BROWNCLINTON/osint-project |
+| Threat Hunting | | |
+| Social Engineering | | |
+| Vulnerability Assessment | | |
+| SOC Analysis | | |
 
-   ### Operating Systems
-   - Windows
-   - Linux
+## Skills
+
+### Operating Systems
+- Windows
+- Linux
 
 
 ### Networking 
