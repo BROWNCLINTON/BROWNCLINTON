@@ -49,4 +49,15 @@
 - Burp Suite
 - Splunk
 - Metasploit
+- Git
+- Github
 
+## Certifications
+- ISC2 CC
+- CompTIA Security + (In Progress)
+
+## Education 
+- NIIT Port Harcourt: Cybersecurity program
+- Port Harcourt polytechnic: Law
+
+- 
